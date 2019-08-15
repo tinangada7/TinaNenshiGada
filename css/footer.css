@@ -1,0 +1,24 @@
+.btn-floating
+{
+    color: black;
+}
+.btn-floating:hover
+{
+    color: #de0f66;
+    transition: 0.3s;
+}
+.mail_link
+{
+    color: #de0f66;
+}
+.mail_link:hover
+{
+    color: #FF8FBE;
+    transition: 0.2s;
+    text-decoration: none;
+}
+.p_quote
+{
+    padding: 0px;
+    margin: 0px;
+}
