@@ -145,6 +145,10 @@
     {
         font-size: 40px;
     }
+    .Appname-safer
+    {
+        font-size: 40px;
+    }
     .iframeholder
     {
         width:250px;
@@ -201,6 +205,10 @@
         width: 330px;
     }
     .Appname
+    {
+        font-size: 40px;
+    }
+    .Appname-safer
     {
         font-size: 40px;
     }
