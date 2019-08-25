@@ -188,6 +188,18 @@
 }
 @media (min-width: 321px) and (max-width: 375px)
 {
+    .g1
+    {
+        width: 80%;
+    }
+    .ktitle
+    {
+        font-size: 10px;
+    }
+    .p-k
+    {
+        font-size: 10px;
+    }
     .main_heading
     {
         font-size: 18px;
