@@ -137,6 +137,15 @@ body::-webkit-scrollbar-thumb
     position: relative;
     filter: grayscale(50%);
 }
+.hero-image-animal
+{
+    background-image: url("../images/Animal%20Rescue%20Hero.png");
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
 .Appname_intern
 {
     text-align: center;
@@ -370,4 +379,8 @@ video::-webkit-media-controls-current-time-display
 {
     width: 250px;
     padding-bottom: 25px;
+}
+.svg
+{
+    width: 100px;
 }
