@@ -384,3 +384,14 @@ video::-webkit-media-controls-current-time-display
 {
     width: 100px;
 }
+.navbar-toggler:focus
+{
+   outline: none !important;
+   box-shadow: none;
+}
+
+.navbar-toggler:active 
+{
+   outline: none !important;
+   box-shadow: none;
+}
