@@ -4,18 +4,27 @@
 }
 .btn-floating:hover
 {
-    color: #de0f66;
+    color: #525252;
     transition: 0.3s;
 }
+.btn-floating:focus
+{
+    border: solid dimgrey;
+}
+
 .mail_link
 {
-    color: #de0f66;
+    color: #525252;
 }
 .mail_link:hover
 {
-    color: #FF8FBE;
+    color: black;
     transition: 0.2s;
     text-decoration: none;
+}
+.mail_link:focus
+{
+    border: solid dimgrey;
 }
 .p_quote
 {
