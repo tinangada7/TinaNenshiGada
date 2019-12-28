@@ -214,11 +214,21 @@ body::-webkit-scrollbar-thumb {
     font-weight: bold;
     letter-spacing: 1.3px;
 }
-.row_Research
-{
+
+.row_Research {
     padding: 0 10%;
     margin: 0;
 }
+
+.p_design {
+    line-height: 1.8;
+    font-size: 1.1rem;
+    padding: 0px;
+    max-width: 50rem;
+    margin: 0px auto;
+
+}
+
 .p_challenge {
     line-height: 1.8;
     font-size: 1.1rem;
