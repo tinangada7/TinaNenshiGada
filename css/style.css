@@ -134,9 +134,34 @@ body::-webkit-scrollbar-thumb {
     background-size: cover;
     position: relative;
     -webkit-filter: grayscale(100%);
-    /* Safari 6.0 - 9.0 */
     filter: grayscale(50%);
+}
 
+.hero_p {
+    display: flex;
+    margin: auto;
+}
+
+.pro_row {
+    background-color: #765CCF;
+    color: white;
+    padding: 10rem;
+    margin: 0;
+}
+
+.pro_p {
+    font-size: 1.2rem;
+    line-height: 1.9;
+}
+
+.p_bg {
+    background-image: url("../images/P_bg.png");
+    height: 700px;
+    background-repeat: no-repeat;
+    position: relative;
+    display: flex;
+    margin: auto;
+    background-size: cover;
 }
 
 .hero-image-internship {
@@ -176,6 +201,20 @@ body::-webkit-scrollbar-thumb {
     color: whitesmoke;
 }
 
+.span_p {
+    font-size: 3rem;
+    color: #5d41bb;
+    font-weight: bold;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+
+.Appname_pyramid_p {
+    font-size: 1.2rem;
+    color: #5d41bb;
+    line-height: 1.5;
+}
+
 .Appname {
     text-align: center;
     padding-top: 350px;
@@ -205,12 +244,16 @@ body::-webkit-scrollbar-thumb {
 }
 
 .p_heading {
-    font-size: 16px;
+    font-size: 1.1rem;
+}
+
+.pro_heading {
+    font-size: 1.3rem;
 }
 
 .p_title {
     font-family: 'Playfair Display', serif;
-    font-size: 30px;
+    font-size: 1.7rem;
     font-weight: bold;
     letter-spacing: 1.3px;
 }

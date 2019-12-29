@@ -61,6 +61,14 @@
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
+    .Appname_pyramid
+    {
+        padding-left: 10rem;
+    }
+    .pro_row
+    {
+        padding: 1rem;
+    }
     .main_body {
         font-size: 24px;
     }
@@ -101,6 +109,10 @@
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
+    .pro_row
+    {
+        padding: 3rem;
+    }
     .navbar-padding {
         padding: 20px 20px 0px 20px;
     }
@@ -118,6 +130,19 @@
 }
 
 @media (max-width: 320px) {
+    .hero_p
+    {
+        padding-top: 1rem;
+    }
+    .pro_row {
+        padding: 1rem;
+    }
+
+    .pro_p {
+        font-size: 1.03rem;
+        line-height: 1.4;
+    }
+
     .main_heading {
         font-size: 16px;
     }
@@ -186,6 +211,13 @@
 }
 
 @media (min-width: 321px) and (max-width: 375px) {
+    .hero_p
+    {
+        padding-top: 1rem;
+    }
+    .pro_row {
+        padding: 1rem;
+    }
     .g1 {
         width: 80%;
     }
@@ -255,6 +287,13 @@
 }
 
 @media (min-width: 376px) and (max-width: 414px) {
+    .hero_p
+    {
+        padding-top: 1rem;
+    }
+    .pro_row {
+        padding: 1rem;
+    }
     .main_heading {
         font-size: 18px;
     }
@@ -324,7 +363,9 @@
     .height-100,
     .logoWrap {
         height: 90%;
-    }.row_Research {
+    }
+
+    .row_Research {
         padding: 0 4%;
     }
 }
