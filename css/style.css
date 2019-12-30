@@ -271,11 +271,17 @@ body::-webkit-scrollbar-thumb {
 
 }
 
-.p_challenge {
+.p_challenge_index {
     line-height: 1.8;
     font-size: 1.1rem;
     padding: 0px;
     max-width: 35rem;
+    margin: 0px auto;
+}
+.p_challenge {
+    line-height: 1.8;
+    font-size: 1.1rem;
+    padding: 0px;
     margin: 0px auto;
 }
 
