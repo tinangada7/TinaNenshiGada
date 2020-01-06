@@ -4,7 +4,7 @@
 }
 .btn-floating:hover
 {
-    color: #525252;
+    color: #de0f66;
     transition: 0.3s;
 }
 .btn-floating:focus
@@ -14,7 +14,7 @@
 
 .mail_link
 {
-    color: #525252;
+    color: #de0f66;
 }
 .mail_link:hover
 {

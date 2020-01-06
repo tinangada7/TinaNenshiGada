@@ -97,7 +97,7 @@ body::-webkit-scrollbar-thumb {
 
 .main_heading_span {
     font-size: 1.4rem;
-    color: #525252;
+    color: #de0f66;
 }
 
 .main_heading_span:focus {
@@ -105,7 +105,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .main_heading_span_project {
-    color: #525252;
+    color: #de0f66;
 }
 
 .main_heading_span_project:hover {
@@ -341,7 +341,7 @@ body::-webkit-scrollbar-thumb {
 
 .about_span {
     font-size: 18px;
-    color: #525252;
+    color: #de0f66;
 }
 
 .about_span:hover {
@@ -469,8 +469,7 @@ video::-webkit-media-controls-current-time-display {}
 }
 
 .aboutimage {
-    width: 200px;
-    filter: contrast();
+    width: 100%;
 }
 
 .navbar-toggler:active {
