@@ -130,12 +130,21 @@ body::-webkit-scrollbar-thumb {
     background-image: url("../images/Hero.jpg");
     height: 700px;
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
     position: relative;
     -webkit-filter: grayscale(100%);
     filter: grayscale(50%);
 }
+.hero-image-space {
+    background-image: url("../images/Mobile@2x.jpg");
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
 
 .hero_p {
     display: flex;
